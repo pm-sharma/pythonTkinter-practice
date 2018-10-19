@@ -1,6 +1,6 @@
 # pythonTkinter-practice-programs
 
-Program for GRAPHICAL USER INTERFACE IN PYTHON Tkinter
+Program for GRAPHICAL USER INTERFACE In PYTHON Tkinter
 
 This project lets i try out Tkinter and practice it!
  
